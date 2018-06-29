@@ -32,7 +32,7 @@
                             <outlet property="delegate" destination="i4V-6j-yIf" id="2lN-n3-3jq"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" id="M4K-ec-Fmx"/>
+                    <navigationItem key="navigationItem" id="M4K-ec-Fmx" userLabel="DIT"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jhi-1c-7cO" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -54,7 +54,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4jw-K8-2hG" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-340" y="9"/>
+            <point key="canvasLocation" x="-428" y="9"/>
         </scene>
     </scenes>
 </document>
